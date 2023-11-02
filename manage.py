@@ -1,3 +1,9 @@
+# INF601 - Advanced Programming in Python
+# Braulio Mercado
+# Mini Project 3
+# (5/5 points) Initial comments with your name, class and project at the top of your .py file.
+
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
