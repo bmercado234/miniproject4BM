@@ -1,3 +1,5 @@
+# (10/10 points) You need to setup Django admin and style your models for proper entry. No tight restrictions here, just make use of the admin system.
+
 from django.contrib import admin
 
 from .models import Choice, Question

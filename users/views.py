@@ -1,3 +1,5 @@
+# (10/10) You need to setup some sort of register and login system, do some simple research to find examples.
+
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User, Group, Permission
 from django.http import HttpResponseRedirect

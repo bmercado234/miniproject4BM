@@ -1,3 +1,5 @@
+# (10/10 points) Setup a proper folder structure, use the tutorial as an example. You need a minimum of one app.
+
 from django.apps import AppConfig
 
 
